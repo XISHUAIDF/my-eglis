@@ -1,0 +1,19 @@
+/* 强制热力图格子为正方形并限制大小 */
+.heatmap-calendar-graph .day {
+    width: 11px !important;  /* 宽度固定 */
+    height: 11px !important; /* 高度固定，实现 1:1 正方形 */
+    margin: 2px !important;  /* 格子间距 */
+    border-radius: 2px !important; /* 微圆角，更像 GitHub */
+}
+
+/* 调整整体容器，防止拉伸 */
+.heatmap-calendar-graph svg {
+    width: auto !important; 
+    height: auto !important;
+}
+
+/* 调整星期文案的间距，防止重叠 */
+.heatmap-calendar-graph .wday {
+    font-size: 9px;
+    fill: var(--text-muted);
+}
