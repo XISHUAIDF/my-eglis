@@ -35,7 +35,7 @@ const calendarData = {
     showCurrentDayBorder: true, // (optional) defaults to true
 	defaultEntryIntensity: 4,   // (optional) defaults to 4
 	intensityScaleStart: 0,    // (optional) defaults to lowest value passed to entries.intensity
-	intensityScaleEnd: 100,     // (optional) defaults to highest value passed to 
+	intensityScaleEnd: 20,     // (optional) defaults to highest value passed to 
 }
 
 
@@ -46,7 +46,7 @@ for (let page of dv.pages("").where(p => p.master_rate)) {
     
     calendarData.entries.push({
         date: fileName,
-        intensity: page.master_rate,          
+        intensity: page.new_words,          
 		color: "green"
     })
 }
