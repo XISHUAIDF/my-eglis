@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-22.md",
+                "file": "2026-03-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-22"
+              "title": "2026-03-06"
             }
           }
         ],
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "regimen",
+                "query": "bump",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,8 +107,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,10 +226,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "688477c1efa81c7c",
+  "active": "05c59b0021e5ef7d",
   "lastOpenFiles": [
-    "2026-03-21.md",
+    "2026-03-24.md",
+    "2026-02-13.md",
+    "2026-03-23.md",
     "2026-03-22.md",
+    "2026-03-21.md",
     "2026-03-06.md",
     "投资.md",
     "2026-03-18.md",
@@ -253,9 +255,6 @@
     "2026-02-01.md",
     "预测",
     "2026-02-18.md",
-    "2026-02-07.md",
-    "2026-02-25.md",
-    "README.md",
     "English"
   ]
 }
