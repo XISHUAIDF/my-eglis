@@ -40,7 +40,7 @@ const calendarData = {
 
 
 
-for (let page of dv.pages("").where(p => p.master_rate)) {
+for (let page of dv.pages("")) {
     // 直接使用文件名（假设格式是 YYYY-MM-DD）
     const fileName = page.file.name;
     
