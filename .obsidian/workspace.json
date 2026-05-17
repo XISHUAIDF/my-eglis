@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/2026-05-16.md",
+                "file": "English/2026-05-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-16"
+              "title": "2026-05-17"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dictate",
+                "query": "Rattle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,10 +255,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f819f26f6139cdde",
+  "active": "5312c833335574a4",
   "lastOpenFiles": [
-    "English/2026-04-24.md",
+    "English/2026-04-06.md",
+    "English/2026-05-17.md",
+    "English/2026-01-31.md",
     "English/2026-05-16.md",
+    "English/2026-04-24.md",
     "English/2026-03-05.md",
     "English/2026-04-26.md",
     "English/2026-03-30.md",
@@ -280,9 +283,6 @@
     "投资.md",
     "English/2026-04-15.md",
     "English/2026-02-06.md",
-    "English/2026-01-26.md",
-    "English/2026-04-27.md",
-    "English/2026-05-01.md",
     "词根家族",
     "词缀家族",
     "预测",
